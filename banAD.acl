@@ -1508,6 +1508,12 @@
 (^|\.)hrtsea\.com$
 (^|\.)laomo\.me$
 (^|\.)mpyit\.com$
+(^|\.)sciencemag\.org$
+(^|\.)nature\.com$
+(^|\.)wiley\.com$
+(^|\.)acs\.org$
+(^|\.)aps\.org$
+(^|\.)sciencedirect\.com$
 
 # CN域名直连
 (^|\.)cn$
